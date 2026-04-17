@@ -31,7 +31,7 @@
 **One-line install** — run directly from GitHub:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/a9ii/MTProxy-Installer-Manager/main/mtproxy-installer.sh)
+bash <(curl -fsSL https://cdn.jsdelivr.net/gh/a9ii/MTProxy-Installer-Manager/mtproxy-installer.sh)
 ```
 
 Or download and run locally:
