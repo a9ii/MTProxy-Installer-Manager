@@ -1482,7 +1482,7 @@ main_menu() {
   while true; do
     show_banner
     local choice
-    choice=$(ui_menu "MTProxy Manager v${SCRIPT_VERSION}" "Select an option:" \
+    choice=$(ui_menu "MTProxy Manager v${SCRIPT_VERSION} @A9ii" "Select an option:" \
       "1"  "Install / Update MTProxy Core" \
       "2"  "Create New MTProxy Service" \
       "3"  "List Existing Services" \
