@@ -7,7 +7,7 @@
 set -Eeuo pipefail
 
 # --- Global Constants -------------------------------------------------------
-readonly SCRIPT_VERSION="2.0.0"
+readonly SCRIPT_VERSION="2.0.2"
 readonly MTPROXY_BASE="/opt/MTProxy"
 readonly MTPROXY_BIN="${MTPROXY_BASE}/objs/bin/mtproto-proxy"
 readonly MTPROXY_REPO="https://github.com/TelegramMessenger/MTProxy.git"
