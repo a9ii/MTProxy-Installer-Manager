@@ -13,6 +13,10 @@
   Deploy, manage, and monitor multiple MTProxy services from a single interactive CLI.
 </p>
 
+<p align="center">
+  <img src="images/mtproxy-sketch.png" alt="MTProxy Manager Screenshot" width="700">
+</p>
+
 > **⚠️ DISCLAIMER:** This project is provided **strictly for educational and research purposes only**. It is intended to help users learn about networking, proxy infrastructure, and system administration. **Do not use this tool for any illegal, unauthorized, or unethical activities.** Users are solely responsible for ensuring their usage complies with all applicable local, national, and international laws and regulations. The authors assume no liability for misuse of this software.
 
 <p align="center">
