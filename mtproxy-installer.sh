@@ -289,6 +289,7 @@ show_banner() {
   center_text "+------------------------------------------+" "${C_CYAN}"
   center_text "|  MTProxy Installer & Manager v${SCRIPT_VERSION}   |" "${C_CYAN}${C_BOLD}"
   center_text "|  Telegram MTProxy Multi-Instance Tool    |" "${C_CYAN}"
+  center_text "|              Github A9ii                 |" "${C_CYAN}"
   center_text "+------------------------------------------+" "${C_CYAN}"
   echo ""
   draw_line
